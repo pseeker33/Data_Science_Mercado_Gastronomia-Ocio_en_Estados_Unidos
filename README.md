@@ -123,7 +123,7 @@ En esta etapa tambien se hace entrega de se explica el repositorio completo y to
 <!--## 3. **<u>Estructura del Repositorio</u>** -->
 <br>
 <p align="left">  
-    <img src="./src/estructura_repo.PNG"  height=300>    
+    <img src="./src/estructura_repo.png"  height=300>    
 </p>
 
 <br>
