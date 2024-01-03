@@ -47,11 +47,11 @@
 
 ## 1. Introducción 
 
-Somos Iterable Development & Consulting, una firma de desarrollo y consultoría del sector de servicios B2B especializada en brindar soluciones empresariales basados en datos que impulsan la eficiencia operativa y la toma de decisiones informadas de nuestros clentes, utilizando para ello tecnologias robustas, flexibles y seguras.
+Somos Iterable Development & Consulting, una firma de desarrollo y consultoría del sector de servicios B2B especializada en brindar soluciones empresariales basados en datos que permiten impulsar la eficiencia operativa y la toma de decisiones informadas de nuestros clentes, mediante la instrumentalización de tecnologias robustas, flexibles y seguras.
 
-Sabemos que en el mundo empresarial los datos son el activo más valioso, y por eso somos conscientes de la importancia que tiene procesar, analizar e implementar correctamente este activo para transformarlo en conocimiento accionable y en soluciones tecnologicas que satisfagan las necesidades presentes de nuestros clientes o los posicionen estratégicamente para enfrentar los desafíos venideros.
+Sabemos que en el mundo empresarial los datos son activos valiosos, y somos conscientes de la importancia que tiene procesar, analizar e implementar correctamente dichos activos para transformarlos en conocimiento accionable y/o en soluciones tecnologicas que satisfagan las necesidades presentes de nuestros clientes o que permitan posicionarlos estratégicamente para enfrentar los desafíos venideros.
 
-Con este discernimiento en mente, orientamos nuestra labor de enriquecimiento de datos hacia los siguientas servicios:
+Con este discernimiento en mente, orientamos nuestra labor de enriquecimiento de los datos hacia los siguientas servicios:
 
 - Extraccion de los datos desde diversas fuentes y con diferentes formatos para disponibilizarlos en flujos de trabajo automatizados, ya sea de manera local o usando cloud services
 - Procesamiento meticuloso y análisis profundo de los datos para identificar patrones y tendencias que se convierten en guías estratégica para la toma de decisiones.
